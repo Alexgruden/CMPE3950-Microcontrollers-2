@@ -4,3 +4,9 @@
 *.png
 *.xlsx
 *.vscode
+*.kicad_prl
+*.kicad
+*-backups/
+fp-info-cache
+.history/
+*.HEIC
